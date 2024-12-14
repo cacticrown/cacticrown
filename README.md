@@ -1,4 +1,4 @@
-# Hello, I'm Nathan aka cacticrown! 👋
+# Hello, I'm cacticrown!👋
 
 ## About Me
 - I'm 14y old (as of 2024)
