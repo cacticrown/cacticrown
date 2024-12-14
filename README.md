@@ -1,12 +1,17 @@
-# Hello, I'm cacticrown!👋
+# Hello, I'm **cacticrown**! 👋🌵  
 
-## About Me
-- I'm 14y old (as of 2024)
+## 🌟 About Me  
+- 🎂 **Age:** 14 (as of 2024)  
+- 📍 **Location:** Austria 🇦🇹  
 
-## Skills
-- Languages: C#, a bit of phyton
-- Tools: Godot, MonoGame
+## 🛠️ Skills  
+- **Languages:**  
+  - 💻 C#  
+  - 🐍 A bit of Python  
+- **Tools:**  
+  - 🎮 Godot  
+  - 🚀 MonoGame  
 
-## Links
-- [all my socials](solo.to/cacticrown)
-- [bluesky](https://bsky.app/profile/cacticrown.bsky.social)
+## 🔗 Links  
+- 🌐 [All My Socials](https://solo.to/cacticrown)  
+- 🐦 [Bluesky](https://bsky.app/profile/cacticrown.bsky.social) 
