@@ -6,8 +6,7 @@
 
 ## 🛠️ Skills  
 - **Languages:**  
-  - 💻 C#  
-  - 🐍 A bit of Python  
+  - 💻 C#
 - **Tools:**  
   - 🎮 Godot  
   - 🚀 MonoGame  
